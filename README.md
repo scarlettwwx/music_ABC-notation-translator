@@ -10,7 +10,9 @@ D3/4D1/4 E D G F2 D3/4D1/4 E D A G2 D3/4D1/4 d B G F E c3/4c1/4 B G A G3 in ABC 
 
 
 Enter the following commands in the terminal to get started:
-*bison –d s.y
-*flex s.l
-*gcc –o abc –ll s.tab.c lex.yy.c
-*abc
+* bison –d s.y
+* flex s.l
+* gcc –o abc –ll s.tab.c lex.yy.c
+* abc
+
+see more about ABC notation:http://trillian.mit.edu/~jc/music/abc/doc/ABCtutorial.html
